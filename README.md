@@ -1,23 +1,21 @@
-# TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering(AAAI 2025)
+#  Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning, IEEE Transactions on Multimedia 2024 
 ## Introduction
-This repo contains the code and data of our AAAI 2025 paper "TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering". If you have any questions about the source code, please contact: jankinwang@njust.edu.cn
+This repo contains the code and data of our TMM 2024 paper "Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning". If you have any questions about the source code, please contact: lixingfeng@njust.edu.cn
 
 ## Environment
 ```
-Matlab R2024a
 Matlab Statistics and Machine Learning Toolbox
 ```
 
-## Datasets
-You can find more datasets used ine the papat at [Baidu Netdisk](https://pan.baidu.com/s/1Ss2Nt9zs3YwGSmQGJCZDFA?pwd=9rbd)
-
-## Quick start
-```
-Run demo_Projectbinary.m
-```
 
 ## Ciation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{wang2025tpch, title={TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering}, author={Wang, Zhongwen and Li, Xingfeng and Sun, Yinghui and Sun, Quansen and Sun, Yuan and Ling, Han and Dai, Jian and Ren, Zhenwen}, booktitle={Proceedings of the AAAI Conference on Artificial Intelligence} }
+@article{li2024incomplete,
+  title={Incomplete multi-view clustering with paired and balanced dynamic anchor learning},
+  author={Li, Xingfeng and Pan, Yuangang and Sun, Yuan and Sun, Quansen and Sun, Yinghui and Tsang, Ivor W and Ren, Zhenwen},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
+}
 ```
